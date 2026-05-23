@@ -3,3 +3,5 @@ node_modules
 
 common/
 client/.next/
+
+coverage/
